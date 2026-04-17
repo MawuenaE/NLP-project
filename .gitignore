@@ -3,11 +3,4 @@ __pycache__/
 *.pyc
 .DS_Store
 .ipynb_checkpoints/
-data/raw/
-data/interim/
-data/processed/
-data/external/
-outputs/*.png
-outputs/*.csv
-outputs/*.txt
-report/*.pdf
+
