@@ -1,6 +1,24 @@
+# Environnement
 .venv/
+venv/
+
+# Python
 __pycache__/
 *.pyc
-.DS_Store
+
+# Jupyter
 .ipynb_checkpoints/
 
+# Données brutes lourdes
+data/raw/zips/
+data/raw/extracted_1993/
+data/raw/pf_1993_all/
+data/raw/pf_1993_tour1_matched/
+data/raw/test_ocr/
+
+# Fichiers temporaires / debug
+data/raw/*failed*.csv
+*.log
+
+# OS / éditeur
+.DS_Store
