@@ -1,0 +1,535 @@
+titulaire-soutien,titulaire-liste,count,orientation_label,keep_for_binary,notes
+Front national,non mentionné,552,right,yes,pré-rempli automatiquement
+Parti communiste français,non mentionné,416,left,yes,pré-rempli automatiquement
+Nouveaux écologistes du rassemblement nature et animaux,non mentionné,384,other,no,pré-rempli automatiquement
+Verts;Génération écologie,Entente des écologistes,292,other,no,pré-rempli automatiquement
+non mentionné,non mentionné,292,other,no,corrigé automatiquement : ambigu
+Lutte ouvrière,non mentionné,234,left,yes,pré-rempli automatiquement
+non mentionné,Alliance des Français pour le progrès,160,other,no,corrigé automatiquement : ambigu
+Parti socialiste,Alliance des Français pour le progrès,128,left,yes,pré-rempli automatiquement
+Génération écologie;Verts,Entente des écologistes,113,other,no,pré-rempli automatiquement
+Rassemblement pour la République;Union pour la démocratie française,Union pour la France,106,right,yes,pré-rempli automatiquement
+Parti de la loi naturelle,non mentionné,94,other,no,pré-rempli automatiquement
+Union pour la démocratie française;Rassemblement pour la République,Union pour la France,86,right,yes,pré-rempli automatiquement
+Nouveaux écologistes du rassemblement nature et animaux;Union nationale écologiste;Parti pour la défense des animaux;Mouvement universaliste,non mentionné,82,other,no,pré-rempli automatiquement
+Rassemblement pour la République;Union pour la démocratie française,non mentionné,79,right,yes,pré-rempli automatiquement
+Ligue communiste révolutionnaire,A gauche vraiment,62,left,yes,corrigé automatiquement : liste explicitement à gauche
+Union pour la démocratie française;Rassemblement pour la République,non mentionné,61,right,yes,pré-rempli automatiquement
+Ecologie les Verts;Génération écologie,Entente des écologistes,58,other,no,pré-rempli automatiquement
+Parti socialiste,non mentionné,56,left,yes,pré-rempli automatiquement
+Mouvement des citoyens,non mentionné,50,left,yes,pré-rempli automatiquement
+indépendant,non mentionné,47,other,no,corrigé automatiquement : ambigu
+Parti des travailleurs,non mentionné,44,left,yes,pré-rempli automatiquement
+Rassemblement pour la République,non mentionné,43,right,yes,pré-rempli automatiquement
+Union des indépendants,non mentionné,43,other,no,pré-rempli automatiquement
+Parti communiste français,Rassemblement des forces de progrès,40,left,yes,pré-rempli automatiquement
+non mentionné,Union pour la France,38,right,yes,pré-rempli automatiquement
+Mouvement des démocrates,non mentionné,35,other,no,pré-rempli automatiquement
+Solidarité écologie gauche alternative,non mentionné,35,other,no,corrigé automatiquement : coalition écologiste mixte
+Alliance populaire,Rassemblement des forces nationales,34,right,yes,pré-rempli automatiquement
+Centre national des indépendants;Démocratie chrétienne française,non mentionné,33,right,yes,pré-rempli automatiquement
+Parti socialiste;Mouvement des radicaux de gauche,non mentionné,32,left,yes,pré-rempli automatiquement
+Verts,Entente des écologistes,31,other,no,pré-rempli automatiquement
+Mouvement des réformateurs,non mentionné,31,other,no,pré-rempli automatiquement
+Alliance pour l'écologie et la démocratie,Union pour l'écologie et la démocratie,30,other,no,pré-rempli automatiquement
+Union pour la démocratie française,non mentionné,30,right,yes,pré-rempli automatiquement
+Parti du ras le bol,non mentionné,23,other,no,pré-rempli automatiquement
+Alliance populaire,non mentionné,22,right,yes,pré-rempli automatiquement
+Parti des travailleurs;Alliance européenne des travailleurs,non mentionné,22,left,yes,pré-rempli automatiquement
+Centre national des indépendants et paysans;Démocratie chrétienne française,non mentionné,22,right,yes,pré-rempli automatiquement
+Parti socialiste;Mouvement des radicaux de gauche,Alliance des Français pour le progrès,21,left,yes,pré-rempli automatiquement
+non mentionné,Union pour l'écologie et la démocratie,19,other,no,corrigé automatiquement : ambigu
+Parti des travailleurs;Alliance européenne des travailleurs;Entente internationale des travailleurs,non mentionné,19,left,yes,pré-rempli automatiquement
+sans étiquette,non mentionné,17,other,no,corrigé automatiquement : ambigu
+Chasse pêche nature traditions,non mentionné,16,other,no,pré-rempli automatiquement
+Union pour la démocratie française;Rassemblement pour la République,Union de l'opposition,14,right,yes,corrigé automatiquement : opposition de droite
+Génération écologie,Entente des écologistes,13,other,no,pré-rempli automatiquement
+Parti communiste français,Rassemblement des forces de gauche et de progrès,12,left,yes,pré-rempli automatiquement
+communiste,non mentionné,10,left,yes,pré-rempli automatiquement
+Parti communiste français,Rassemblement des forces de progrès et de gauche,10,left,yes,pré-rempli automatiquement
+non mentionné,Opposition,10,right,yes,pré-rempli automatiquement
+libre,non mentionné,10,other,no,pré-rempli automatiquement
+divers droite,non mentionné,9,right,yes,pré-rempli automatiquement
+Nouvelle solidarité,non mentionné,9,other,no,pré-rempli automatiquement
+aucun parti politique,non mentionné,8,other,no,corrigé automatiquement : ambigu
+Union pour la démocratie française,Union pour la France,8,right,yes,pré-rempli automatiquement
+Rassemblement pour la République;Centre national des indépendants,non mentionné,8,right,yes,pré-rempli automatiquement
+Parti communiste français,Rassemblement des hommes et des femmes de gauche et de progrès,7,left,yes,pré-rempli automatiquement
+Alliance populaire,Rassemblement du peuple français,7,right,yes,pré-rempli automatiquement
+non mentionné,Francécologie,7,other,no,corrigé automatiquement : ambigu
+Rassemblement pour la République;Union pour la démocratie française;Centre national des indépendants,Union pour la France,7,right,yes,pré-rempli automatiquement
+Rassemblement pour la République;Union pour la démocratie française,Union de l'opposition,7,right,yes,corrigé automatiquement : opposition de droite
+Syndicat national de défense du droit des agriculteurs;Collectif du monde rural pour le non à Maastricht;Coordination rurale;Union des indépendants,Enjeu France,7,other,no,pré-rempli automatiquement
+Génération écologie;Verts;Alternative rouge et verte,Entente des écologistes,6,other,no,corrigé automatiquement : coalition écologiste mixte
+Verts,non mentionné,6,other,no,pré-rempli automatiquement
+non mentionné,Ensemble aujourd'hui,6,other,no,corrigé automatiquement : ambigu
+non mentionné,Entente des écologistes,6,other,no,corrigé automatiquement : ambigu
+Génération écologie;Verts;Solidarités écologie,Entente des écologistes,6,other,no,pré-rempli automatiquement
+Parti communiste français,Rassemblement des forces de gauche,6,left,yes,pré-rempli automatiquement
+non mentionné,Ecologistes ni à droite ni à gauche,5,other,no,corrigé automatiquement : ni droite ni gauche
+Centre national des indépendants,non mentionné,5,right,yes,pré-rempli automatiquement
+Centre national des indépendants et paysans,non mentionné,5,right,yes,pré-rempli automatiquement
+Rassemblement pour la République,Union pour la France,5,right,yes,pré-rempli automatiquement
+Union pour la démocratie française;Rassemblement pour la République,Union,5,right,yes,pré-rempli automatiquement
+Union des indépendants;Mouvement pour une nouvelle humanité,non mentionné,5,other,no,pré-rempli automatiquement
+Solidarité écologie gauche alternative;Alternative rouge et verte,non mentionné,5,other,no,corrigé automatiquement : coalition écologiste mixte
+Alsace d'abord,non mentionné,5,other,no,pré-rempli automatiquement
+Rassemblement pour la République;Union pour la démocratie française;Centre national des indépendants,non mentionné,5,right,yes,pré-rempli automatiquement
+Ecologie les Verts,Entente des écologistes,4,other,no,pré-rempli automatiquement
+indépendants,non mentionné,4,other,no,pré-rempli automatiquement
+socialiste,Alliance des Français pour le progrès,4,left,yes,pré-rempli automatiquement
+Parti communiste français,Rassemblement des hommes et des femmes de progrès,4,left,yes,pré-rempli automatiquement
+Mouvement pour l'autodétermination,non mentionné,4,other,no,pré-rempli automatiquement
+Parti communiste français,Rassemblement pour une vraie politique de gauche,4,left,yes,pré-rempli automatiquement
+Rassemblement pour la République;Union pour la démocratie française;Centre national des indépendants et paysans,non mentionné,4,right,yes,pré-rempli automatiquement
+Mouvement des radicaux de gauche;Parti socialiste,Alliance des Français pour le progrès,4,left,yes,pré-rempli automatiquement
+Rassemblement pour la République,Opposition,4,right,yes,corrigé automatiquement : opposition de droite
+Rassemblement pour la République;Union pour la démocratie française,Opposition,4,right,yes,corrigé automatiquement : opposition de droite
+non mentionné,Alliance des Français pour le progrès;Energie radicale,4,other,no,corrigé automatiquement : ambigu
+gauche,non mentionné,4,left,yes,pré-rempli automatiquement
+Union pour la démocratie française;Centre des démocrates sociaux,non mentionné,4,right,yes,pré-rempli automatiquement
+Union pour la démocratie française,Opposition,4,right,yes,pré-rempli automatiquement
+Union des indépendants,Enjeu France,4,other,no,pré-rempli automatiquement
+non mentionné,Union de l'opposition,4,right,yes,pré-rempli automatiquement
+Corsica Nazione,non mentionné,4,other,no,pré-rempli automatiquement
+Parti communiste français,Rassemblement pour le progrès social et la démocratie,3,left,yes,pré-rempli automatiquement
+Parti communiste français,Rassemblement du peuple de gauche,3,left,yes,pré-rempli automatiquement
+socialiste,non mentionné,3,left,yes,pré-rempli automatiquement
+Union pour la démocratie française;Rassemblement pour la République;Centre national des indépendants,Union de l'opposition,3,right,yes,corrigé automatiquement : opposition de droite
+hors des partis politiques,non mentionné,3,other,no,pré-rempli automatiquement
+Ecologie les Verts,non mentionné,3,other,no,pré-rempli automatiquement
+Union pour la démocratie française;Rassemblement pour la République;Centre national des indépendants,Union pour la France,3,right,yes,pré-rempli automatiquement
+Solidarité écologie gauche alternative;Alternative rouge et verte;Alternative démocratie socialisme,non mentionné,3,other,no,corrigé automatiquement : coalition écologiste mixte
+Union pour la démocratie française;Centre national des indépendants,non mentionné,3,right,yes,pré-rempli automatiquement
+non mentionné,Union des écologistes,3,other,no,corrigé automatiquement : ambigu
+non mentionné,Ecologie pluraliste indépendante,3,other,no,corrigé automatiquement : ambigu
+non mentionné,Majorité présidentielle,3,other,no,corrigé automatiquement : ambigu
+non mentionné,Résistance verte,3,other,no,corrigé automatiquement : ambigu
+Abertzaleen batasuna,non mentionné,3,other,no,pré-rempli automatiquement
+Solidarité écologie gauche alternative,Solidarité écologie,3,other,no,corrigé automatiquement : coalition écologiste mixte
+Union des démocrates chrétiens,non mentionné,3,other,no,pré-rempli automatiquement
+Union de la jeunesse et des créateurs,non mentionné,3,other,no,pré-rempli automatiquement
+Unitat catalana,non mentionné,3,other,no,pré-rempli automatiquement
+Rassemblement pour la République,Union de l'opposition,3,right,yes,corrigé automatiquement : opposition de droite
+Alliance pour l'écologie et la démocratie,Francécologie,3,other,no,pré-rempli automatiquement
+Parti socialiste;Mouvement des radicaux de gauche,Majorité présidentielle,3,left,yes,pré-rempli automatiquement
+Nouveaux écologistes du rassemblement nature et animaux,Entente des écologistes,3,other,no,pré-rempli automatiquement
+Parti communiste français,Rassemblement pour changer à gauche,3,left,yes,corrigé automatiquement : liste explicitement à gauche
+Parti socialiste,Forces de progrès,3,left,yes,pré-rempli automatiquement
+socialistes,non mentionné,2,left,yes,pré-rempli automatiquement
+Accolta Naziunali Corsa,non mentionné,2,other,no,pré-rempli automatiquement
+Centre des démocrates sociaux;Union pour la démocratie française,Union pour la France,2,right,yes,pré-rempli automatiquement
+Centre des démocrates sociaux,non mentionné,2,right,yes,corrigé automatiquement : CDS classé centre-droit
+Association pour les libertés en Europe,non mentionné,2,other,no,pré-rempli automatiquement
+Association des usagers de l'administration et des services publics;Union civique;SOS environnement;Région verte,Union pour l'écologie et la démocratie,2,other,no,pré-rempli automatiquement
+non mentionné,Toulouse ensemble,2,other,no,corrigé automatiquement : ambigu
+Centre des démocrates sociaux;Union pour la démocratie française;Rassemblement pour la République,non mentionné,2,right,yes,pré-rempli automatiquement
+non mentionné,Ecologistes de gauche,2,left,yes,pré-rempli automatiquement
+non mentionné,Opposition nationale,2,right,yes,pré-rempli automatiquement
+Jura écologie,non mentionné,2,other,no,pré-rempli automatiquement
+Union pour la démocratie française;Parti radical,non mentionné,2,right,yes,pré-rempli automatiquement
+Union pour la démocratie française;Parti républicain,non mentionné,2,right,yes,pré-rempli automatiquement
+Union pour la démocratie française,Union de l'opposition,2,right,yes,pré-rempli automatiquement
+non mentionné,Changer à gauche,2,left,yes,corrigé automatiquement : liste explicitement à gauche
+gaulliste,non mentionné,2,right,yes,pré-rempli automatiquement
+indépendant;divers droite,non mentionné,2,right,yes,pré-rempli automatiquement
+non inscrit,non mentionné,2,other,no,corrigé automatiquement : ambigu
+non mentionné,A gauche vraiment,2,left,yes,corrigé automatiquement : liste explicitement à gauche
+non mentionné,Ecologie et développement,2,other,no,corrigé automatiquement : ambigu
+Union pour la démocratie française;Rassemblement pour la République;Centre national des indépendants,non mentionné,2,right,yes,pré-rempli automatiquement
+Génération écologie,non mentionné,2,other,no,pré-rempli automatiquement
+Eusko alkartasuna,non mentionné,2,other,no,pré-rempli automatiquement
+Mouvement de la gauche progressiste,non mentionné,2,left,yes,pré-rempli automatiquement
+Union des indépendants;Syndicat national de défense du droit des agriculteurs;Collectif du monde rural pour le non à Maastricht;Coordination rurale,Enjeu France,2,other,no,pré-rempli automatiquement
+Union démocratique bretonne,non mentionné,2,other,no,pré-rempli automatiquement
+Parti communiste français,Rassemblement contre la droite et pour changer de politique,2,left,yes,pré-rempli automatiquement
+Rassemblement pour la République,Union de l'opposition nationale,2,right,yes,corrigé automatiquement : opposition de droite
+Ligue communiste révolutionnaire;Jeunesses communistes révolutionnaires,A gauche vraiment,2,left,yes,corrigé automatiquement : liste explicitement à gauche
+Mouvement des radicaux de gauche,non mentionné,2,left,yes,pré-rempli automatiquement
+Mouvement des radicaux de gauche,Alliance des Français pour le progrès,2,left,yes,pré-rempli automatiquement
+Rassemblement pour la République;Union pour la démocratie française,Union,2,right,yes,pré-rempli automatiquement
+Parti socialiste,Majorité présidentielle,2,left,yes,pré-rempli automatiquement
+Parti socialiste;Mouvement des radicaux de gauche,Alliance des forces de progrès,2,left,yes,pré-rempli automatiquement
+Parti socialiste;Mouvement des citoyens,non mentionné,2,left,yes,pré-rempli automatiquement
+Parti communiste français,Rassemblement pour le changement,2,left,yes,pré-rempli automatiquement
+Parti communiste français,Rassemblement à gauche pour changer de politique,2,left,yes,pré-rempli automatiquement
+socialistes,Alliance des Français pour le progrès,2,left,yes,pré-rempli automatiquement
+Alternative rouge et verte,non mentionné,2,left,yes,pré-rempli automatiquement
+vert et rouge,non mentionné,1,other,no,pré-rempli automatiquement
+Agricultura Viva,non mentionné,1,other,no,pré-rempli automatiquement
+Alliance européenne des travailleurs,non mentionné,1,other,no,pré-rempli automatiquement
+Alliance populaire,Rassemblement national du peuple français,1,right,yes,pré-rempli automatiquement
+Alliance populaire;Rassemblement niçois,Rassemblement des forces nationales,1,right,yes,pré-rempli automatiquement
+Alliance populaire;royaliste,Rassemblement du peuple français,1,right,yes,pré-rempli automatiquement
+Alliance pour l'écologie et la démocratie;Région verte;SOS environnement;Association des usagers de l'administration et des services publics;Fédération des usagers des transports d'Ile-de-France;Comité d'action du Val-de-Marne contre le bruit,Union pour l'écologie et la démocratie,1,other,no,pré-rempli automatiquement
+Alliance pour l'écologie et la démocratie;SOS environnement,Ecologie ch'timie,1,other,no,pré-rempli automatiquement
+Alternative démocratie socialisme,Changer à gauche,1,left,yes,corrigé automatiquement : liste explicitement à gauche
+Alternative rouge et verte,Solidarité écologie,1,other,no,corrigé automatiquement : coalition écologiste mixte
+Centre des démocrates sociaux,Union pour la France;Union pour la Haute-Garonne,1,right,yes,corrigé automatiquement : CDS classé centre-droit
+Blanc c'est exprimé;indépendant,non mentionné,1,other,no,pré-rempli automatiquement
+Biosphère pour demain,non mentionné,1,other,no,pré-rempli automatiquement
+Association pour de nouvelles perspectives à gauche,Reconstruire à gauche,1,left,yes,pré-rempli automatiquement
+Association des usagers de l'administration et des services publics;SOS environnement;Comité national d'action contre le bruit;Fédération des usagers des transports,Union pour l'écologie et la démocratie,1,other,no,pré-rempli automatiquement
+Arc en ciel;Parti radical transnational,non mentionné,1,other,no,pré-rempli automatiquement
+Amis saumurois de l'écologie,non mentionné,1,other,no,pré-rempli automatiquement
+Amis de la Terre,Union écologie,1,other,no,pré-rempli automatiquement
+Alternative rouge et verte;Solidarité écologie gauche alternative,non mentionné,1,other,no,corrigé automatiquement : coalition écologiste mixte
+Alternative rouge et verte;Solidarité écologie gauche alternative,Ecologiste et régionaliste de gauche,1,other,no,corrigé automatiquement : coalition écologiste mixte
+Alternative rouge et verte;Génération écologie,Entente des écologistes,1,other,no,corrigé automatiquement : coalition écologiste mixte
+Alternative rouge et verte;Alternative démocratie socialisme;Refondations;Ligue communiste révolutionnaire,Changer à gauche,1,left,yes,corrigé automatiquement : liste explicitement à gauche
+non mentionné,Union de la jeunesse et des créateurs,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Union de l'opposition renouveau du rassemblement républicain,1,right,yes,pré-rempli automatiquement
+non mentionné,Une démocratie nouvelle,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Une France forte et juste dans une Europe allant de l'Atlantique à l'Oural,1,other,no,corrigé automatiquement : ambigu
+Parti communiste français,Rassemblement de la gauche et des forces de progrès,1,left,yes,corrigé automatiquement : liste explicitement à gauche
+Mouvement rénovateur nouvelle génération;Association O comme Oxygène,Union de l'opposition,1,right,yes,pré-rempli automatiquement
+Mouvement région Savoie;Alliance libre européenne,non mentionné,1,other,no,pré-rempli automatiquement
+Mouvement pour une nouvelle humanité;Union des indépendants,non mentionné,1,other,no,pré-rempli automatiquement
+Mouvement démocratie alsacienne,non mentionné,1,other,no,pré-rempli automatiquement
+Parti républicain,non mentionné,1,right,yes,corrigé automatiquement : parti républicain classé à droite
+Parti radical;Union pour la démocratie française,non mentionné,1,right,yes,pré-rempli automatiquement
+Parti occitan,non mentionné,1,other,no,pré-rempli automatiquement
+Parti national démocrate,non mentionné,1,other,no,pré-rempli automatiquement
+Parti libre,non mentionné,1,other,no,pré-rempli automatiquement
+Parti des travailleurs;Entente internationale des travailleurs,non mentionné,1,left,yes,pré-rempli automatiquement
+Parti des chômeurs et des mécontents,D'abord l'emploi,1,other,no,à revoir si besoin
+Parti de la politique inter-culturelle,non mentionné,1,other,no,pré-rempli automatiquement
+Parti d'en rire,non mentionné,1,other,no,pré-rempli automatiquement
+Parti communiste français;Refondations,Entente démocratique pour le changement à gauche,1,left,yes,pré-rempli automatiquement
+Parti communiste français;Alternative rouge et verte;Refondations;Convergences et démocratie;espoirs 93,Emploi écologie solidarité,1,other,no,corrigé automatiquement : coalition écologiste mixte
+Parti socialiste;centre;divers gauche,Agir ensemble,1,left,yes,pré-rempli automatiquement
+Parti socialiste;Mouvement des radicaux de gauche;Mouvement des réformateurs,Energie sud,1,left,yes,pré-rempli automatiquement
+Parti socialiste;Mouvement des radicaux de gauche;Mouvement des citoyens,non mentionné,1,left,yes,pré-rempli automatiquement
+Parti socialiste;Mouvement des radicaux de gauche;Mouvement des citoyens,Rassemblement de la gauche républicaine,1,left,yes,corrigé automatiquement : liste explicitement à gauche
+Parti socialiste;Mouvement des radicaux de gauche;Club des démocrates,non mentionné,1,left,yes,pré-rempli automatiquement
+Parti socialiste;Mouvement des radicaux de gauche;Association des démocrates,non mentionné,1,left,yes,pré-rempli automatiquement
+Parti socialiste;Mouvement des radicaux de gauche,Rassemblement des forces de gauche et de progrès,1,left,yes,pré-rempli automatiquement
+Parti socialiste;Mouvement des radicaux de gauche,Energie radicale;Alliance des Français pour le progrès,1,left,yes,pré-rempli automatiquement
+Parti socialiste;Mouvement des radicaux de gauche,Autrement,1,left,yes,pré-rempli automatiquement
+Parti socialiste;Mouvement des radicaux de gauche,Alliance des Français pour le progrès;Energie radicale,1,left,yes,pré-rempli automatiquement
+Parti socialiste,Union des Français pour le progrès,1,left,yes,pré-rempli automatiquement
+Parti socialiste,Rassemblement des forces de gauche et de progrès,1,left,yes,pré-rempli automatiquement
+Parti socialiste,Génération action,1,left,yes,pré-rempli automatiquement
+Parti républicain;Rassemblement pour la République,Union de l'opposition,1,right,yes,corrigé automatiquement : opposition de droite
+Parti communiste français,Rassemblement des forces de gauche et changement,1,left,yes,pré-rempli automatiquement
+Parti communiste français,Rassemblement des femmes et des hommes de progrès,1,left,yes,pré-rempli automatiquement
+Mouvement des réformateurs,Nouvelle génération centriste,1,other,no,pré-rempli automatiquement
+Mouvement des réformateurs,Génération centre,1,other,no,pré-rempli automatiquement
+Mouvement des réformateurs,Alliance des Français pour le progrès,1,other,no,à revoir si besoin
+Mouvement des radicaux de gauche;Parti socialiste;Alliance pour l'écologie et la démocratie,Alliance des Français pour le progrès,1,left,yes,pré-rempli automatiquement
+Mouvement des radicaux de gauche;Parti socialiste,non mentionné,1,left,yes,pré-rempli automatiquement
+Mouvement des radicaux de gauche;Parti socialiste,Majorité présidentielle,1,left,yes,pré-rempli automatiquement
+Mouvement des radicaux de gauche;Parti socialiste,Alliance des Français pour le progrès;Energie radicale,1,left,yes,pré-rempli automatiquement
+Mouvement des radicaux de gauche,Pour Nice notre ville;Majorité présidentielle,1,left,yes,pré-rempli automatiquement
+Mouvement des radicaux de gauche,Energie radicale;Alliance des Français pour le progrès,1,left,yes,pré-rempli automatiquement
+Mouvement des radicaux de gauche,Energie radicale,1,left,yes,pré-rempli automatiquement
+Rassemblement pour la République,Opposition unie,1,right,yes,corrigé automatiquement : opposition de droite
+Rassemblement pour l'Europe fédérale,non mentionné,1,other,no,pré-rempli automatiquement
+Rassemblement des démocrates normands,non mentionné,1,other,no,pré-rempli automatiquement
+Ras le bol,non mentionné,1,other,no,pré-rempli automatiquement
+Présence socialiste,non mentionné,1,left,yes,pré-rempli automatiquement
+Pour la France,non mentionné,1,other,no,pré-rempli automatiquement
+Rassemblement pour la République;divers droite,non mentionné,1,right,yes,pré-rempli automatiquement
+Rassemblement pour la République;Union pour la démocratie française;indépendants;non inscrit;Des villages dans la ville,Union pour la France,1,right,yes,pré-rempli automatiquement
+Rassemblement pour la République;Union pour la démocratie française;divers modérés,non mentionné,1,right,yes,pré-rempli automatiquement
+Rassemblement pour la République;Union pour la démocratie française;Parti radical;Centre des démocrates sociaux;Parti républicain;Moselle debout,non mentionné,1,right,yes,pré-rempli automatiquement
+Rassemblement pour la République;Union pour la démocratie française;Centre national des indépendants;Parti républicain;Parti radical;Centre des démocrates sociaux;Parti social démocrate,Union pour la France,1,right,yes,pré-rempli automatiquement
+Rassemblement pour la République;Union pour la démocratie française;Centre national des indépendants et paysans,Union de l'opposition,1,right,yes,corrigé automatiquement : opposition de droite
+Rassemblement pour la République;Union pour la démocratie française;Centre national des indépendants,Opposition,1,right,yes,corrigé automatiquement : opposition de droite
+Rassemblement pour la République;Union pour la démocratie française;Centre des démocrates sociaux;Parti républicain,Union pour la France,1,right,yes,pré-rempli automatiquement
+Rassemblement pour la République;Union pour la démocratie française;Centre des démocrates sociaux,Union pour la France,1,right,yes,pré-rempli automatiquement
+Rassemblement pour la République;Union pour la démocratie française,Union pour la France;Union républicaine et libérale,1,right,yes,pré-rempli automatiquement
+Rassemblement pour la République;Union pour la démocratie française,Rassemblement de l'opposition,1,right,yes,corrigé automatiquement : opposition de droite
+Rassemblement pour la République;Union des démocrates de progrès,non mentionné,1,right,yes,pré-rempli automatiquement
+Rassemblement pour la République;Indépendants et paysans,non mentionné,1,right,yes,pré-rempli automatiquement
+Rassemblement pour la République;Centre national des indépendants;Union pour la démocratie française,Union pour la France,1,right,yes,pré-rempli automatiquement
+Mouvement des réformateurs;Solidarités;Politique autrement,non mentionné,1,other,no,pré-rempli automatiquement
+Mouvement des réformateurs;Rassemblement pour l'Europe fédérale;Convention générale de Bretagne,Rassemblement européen des réformateurs,1,other,no,à revoir si besoin
+Mouvement des citoyens;Refondations;Alternative rouge et verte;Ligue communiste révolutionnaire;Alternative démocratie socialisme,Gauche citoyenne et écologiste,1,other,no,corrigé automatiquement : coalition écologiste mixte
+Mouvement des citoyens;Parti socialiste,non mentionné,1,left,yes,pré-rempli automatiquement
+Mouvement des citoyens;Mouvement des radicaux de gauche;Alternative démocratie socialisme,Alliance des Français pour le progrès,1,left,yes,pré-rempli automatiquement
+Mouvement des citoyens,Solidarité écologie,1,left,yes,pré-rempli automatiquement
+Mouvement des chrétiens pour la Ve République;Centre national des indépendants;Union des démocrates de progrès,non mentionné,1,right,yes,pré-rempli automatiquement
+Mouvement de la gauche progressiste;Solidarité écologie gauche alternative,non mentionné,1,other,no,corrigé automatiquement : coalition écologiste mixte
+Ligue socialiste des travailleurs,non mentionné,1,left,yes,pré-rempli automatiquement
+Ligue pour les libertés publiques,non mentionné,1,other,no,pré-rempli automatiquement
+Ligue communiste révolutionnaire;Egalité XXe;Refondations;Alliance rouge et verte,A gauche vraiment,1,left,yes,corrigé automatiquement : liste explicitement à gauche
+Skyrock Quercy Rouergue,non mentionné,1,other,no,pré-rempli automatiquement
+Région verte;EDEN;SOS environnement;Union des écologistes;Association des usagers de l'administration et des services publics;Parti de l'arbre;Terre prochaine,Union pour l'écologie et la démocratie,1,other,no,pré-rempli automatiquement
+Région verte;Association des usagers de l'administration et des services publics;Union civique;SOS environnement,Union pour l'écologie et la démocratie,1,other,no,pré-rempli automatiquement
+Région verte,non mentionné,1,other,no,pré-rempli automatiquement
+Région verte,Union région 93 verte,1,other,no,à revoir si besoin
+Région verte,Union pour l'écologie et la démocratie,1,other,no,pré-rempli automatiquement
+Responsabilités partagées;Alliance pour l'écologie et la démocratie,non mentionné,1,other,no,pré-rempli automatiquement
+Union des indépendants,Citoyens,1,other,no,pré-rempli automatiquement
+Trop d'immigrés la France aux Français;Contre le vote des immigrés,non mentionné,1,other,no,pré-rempli automatiquement
+Trop d'immigrés la France aux Français,non mentionné,1,other,no,pré-rempli automatiquement
+Syndicat national de défense du droit des agriculteurs;Collectif du monde rural pour le non à Maastricht;Coordination rurale;Union pour la démocratie française,Enjeu France,1,right,yes,pré-rempli automatiquement
+Syndicat national de défense du droit des agriculteurs;Collectif du monde rural pour le non à Maastricht;Coordination rurale;Union des indépendants;écologiste indépendant,Enjeu France,1,other,no,pré-rempli automatiquement
+Syndicat national de défense du droit des agriculteurs;Collectif du monde rural pour le non à Maastricht;Coordination rurale;Union des indépendants;Parti démocrate;Parti réformiste;Union libérale de progrès;Union centriste républicaine indépendante,Enjeu France,1,other,no,pré-rempli automatiquement
+Syndicat national de défense du droit des agriculteurs;Collectif du monde rural pour le non à Maastricht;Coordination rurale,Enjeu France,1,other,no,à revoir si besoin
+Solidarités;A gauche autrement,Autrement recomposons une nouvelle gauche,1,left,yes,pré-rempli automatiquement
+Solidarité écologie gauche alternative;Refondations,non mentionné,1,other,no,corrigé automatiquement : coalition écologiste mixte
+Solidarité écologie gauche alternative;Parti des travailleurs;Mouvement des citoyens;Démocratie socialiste;Alternative démocratie socialisme;Alternative rouge et verte,non mentionné,1,other,no,corrigé automatiquement : coalition écologiste mixte
+Solidarité écologie gauche alternative;Mouvement de la gauche progressiste;Alternative démocratie socialisme;Alternative rouge et verte,non mentionné,1,other,no,corrigé automatiquement : coalition écologiste mixte
+Solidarité écologie gauche alternative;Ecologie solidarités,non mentionné,1,other,no,corrigé automatiquement : coalition écologiste mixte
+Solidarité écologie gauche alternative;Alternative démocratie socialisme,non mentionné,1,other,no,corrigé automatiquement : coalition écologiste mixte
+Solidarité écologie gauche alternative,A gauche autrement,1,left,yes,corrigé automatiquement : liste explicitement à gauche
+Mouvement des démocrates;Union des indépendants,non mentionné,1,other,no,pré-rempli automatiquement
+Mouvement des démocrates libéraux,non mentionné,1,other,no,pré-rempli automatiquement
+Ligue communiste révolutionnaire;Alternative libertaire,A gauche toute,1,left,yes,corrigé automatiquement : liste explicitement à gauche
+Ligue communiste révolutionnaire,Union pour une véritable écologie;A gauche vraiment,1,left,yes,corrigé automatiquement : liste explicitement à gauche
+Ligue communiste révolutionnaire,Solidarité égalité écologie;A gauche vraiment,1,left,yes,corrigé automatiquement : liste explicitement à gauche
+Ligue communiste révolutionnaire,Rupture pour une gauche alternative,1,left,yes,pré-rempli automatiquement
+Jeunesses communistes révolutionnaires;Groupe socialiste internationaliste,Opposition ouvrière,1,left,yes,pré-rempli automatiquement
+Jeunesse nationaliste révolutionnaire,non mentionné,1,other,no,pré-rempli automatiquement
+Jeunes sociaux libéraux;Union pour la démocratie française;Rassemblement pour la République,non mentionné,1,right,yes,pré-rempli automatiquement
+Jeunes Centre national des indépendants;Centre national des indépendants;Démocratie chrétienne française,non mentionné,1,right,yes,pré-rempli automatiquement
+Génération écologie;Verts;Parti occitan,Entente des écologistes,1,other,no,pré-rempli automatiquement
+Génération écologie;Verts,Entente des écologistes;Entente des écologistes de la Méditerranée,1,other,no,pré-rempli automatiquement
+Union démocratique bretonne;Solidarité écologie gauche alternative,Solidarité écologie,1,other,no,corrigé automatiquement : coalition écologiste mixte
+Union du peuple de France,non mentionné,1,other,no,pré-rempli automatiquement
+Union du peuple alsacien,non mentionné,1,other,no,pré-rempli automatiquement
+Union des écologistes,non mentionné,1,other,no,pré-rempli automatiquement
+Union des indépendants;Union départementale d'opposition 93,non mentionné,1,right,yes,pré-rempli automatiquement
+Union des indépendants,Objectif France,1,other,no,pré-rempli automatiquement
+Union pour la démocratie française;Parti républicain;Centre national des indépendants et paysans;Comité central bonapartiste,non mentionné,1,right,yes,pré-rempli automatiquement
+Union pour la démocratie française;Parti républicain;Centre des démocrates sociaux;Parti social démocrate;Parti radical,non mentionné,1,right,yes,pré-rempli automatiquement
+Union pour la démocratie française;Parti républicain,Union pour la France,1,right,yes,pré-rempli automatiquement
+Union pour la démocratie française;Parti républicain,Opposition unie,1,right,yes,pré-rempli automatiquement
+Union pour la démocratie française;Parti radical;Parti républicain;Centre des démocrates sociaux;Clubs perspectives et réalités,Union de l'opposition,1,right,yes,pré-rempli automatiquement
+Union pour la démocratie française;Centre national des indépendants;non inscrits;Rassemblement pour la République,Union de l'opposition et défense du monde rural,1,right,yes,corrigé automatiquement : opposition de droite
+Union pour la démocratie française;Centre national des indépendants et paysans,non mentionné,1,right,yes,pré-rempli automatiquement
+Union pour la démocratie française;Centre des démocrates sociaux;Parti radical;Parti républicain;Parti social démocrate;Clubs perspectives et réalités,Union de l'opposition,1,right,yes,pré-rempli automatiquement
+Union pour la démocratie française,Union pour le Cher et la France,1,right,yes,pré-rempli automatiquement
+Union pour la démocratie française,Union pour la France;Vouloir Cherbourg,1,right,yes,pré-rempli automatiquement
+Union pour la démocratie française,Union pour la France;Ensemble pour gagner,1,right,yes,pré-rempli automatiquement
+Union pour la démocratie française,Union de l'opposition républicaine,1,right,yes,pré-rempli automatiquement
+Union pour la démocratie française,Rassemblement pour la Creuse,1,right,yes,pré-rempli automatiquement
+Union pour la démocratie française,Energie nouvelle et union,1,right,yes,pré-rempli automatiquement
+Union démocratique bretonne;Solidarité écologie gauche alternative,non mentionné,1,other,no,corrigé automatiquement : coalition écologiste mixte
+Ligue communiste révolutionnaire;Alternative rouge et verte,non mentionné,1,left,yes,pré-rempli automatiquement
+Génération écologie;Ecologie les Verts,Entente des écologistes,1,other,no,pré-rempli automatiquement
+Génération verte,non mentionné,1,other,no,pré-rempli automatiquement
+Groupement Thémis,non mentionné,1,other,no,pré-rempli automatiquement
+France plus,Ensemble aujourd'hui,1,other,no,à revoir si besoin
+France Planète 21,non mentionné,1,other,no,pré-rempli automatiquement
+France 16,non mentionné,1,other,no,pré-rempli automatiquement
+Forum progressiste;Solidarité écologie gauche alternative,non mentionné,1,other,no,corrigé automatiquement : coalition écologiste mixte
+Esquerra republicana de Catalunya,non mentionné,1,other,no,pré-rempli automatiquement
+Entente pour la démocratie et l'écologie en Normandie;Alliance pour l'écologie et la démocratie,Union pour l'écologie et la démocratie,1,other,no,pré-rempli automatiquement
+Entente populaire indépendante,non mentionné,1,other,no,pré-rempli automatiquement
+Ensemble aujourd'hui;France plus,non mentionné,1,other,no,pré-rempli automatiquement
+Union pour la démocratie française;Rassemblement pour la République;Centre des démocrates sociaux,non mentionné,1,right,yes,pré-rempli automatiquement
+Union pour la démocratie française;Rassemblement pour la République,Union pour la Vendée,1,right,yes,pré-rempli automatiquement
+Union pour la démocratie française;Rassemblement pour la République,Union de l'opposition nationale,1,right,yes,corrigé automatiquement : opposition de droite
+Union pour la démocratie française;Rassemblement pour la République,Opposition unie,1,right,yes,corrigé automatiquement : opposition de droite
+Union pour la démocratie française;Rassemblement pour la République,Opposition,1,right,yes,corrigé automatiquement : opposition de droite
+Verts associatifs,Ecologie pluraliste indépendante,1,other,no,pré-rempli automatiquement
+Verts,Union des écologistes non inscrits,1,other,no,pré-rempli automatiquement
+Verts,Union des écologistes indépendants,1,other,no,pré-rempli automatiquement
+Urbains gogologistes,non mentionné,1,other,no,pré-rempli automatiquement
+Unitat d'Oc,non mentionné,1,other,no,pré-rempli automatiquement
+Union pour la démocratie française;Union des indépendants,Opposition,1,right,yes,pré-rempli automatiquement
+Union pour la démocratie française;Union des démocrates de progrès;Rassemblement pour la République;Mouvement solidarité participation;Union des jeunes pour le progrès;Femme avenir,Union en Normandie,1,right,yes,pré-rempli automatiquement
+Union pour la démocratie française;Rassemblement pour la République;non inscrits,non mentionné,1,right,yes,pré-rempli automatiquement
+Union pour la démocratie française;Rassemblement pour la République;centristes,non mentionné,1,right,yes,pré-rempli automatiquement
+Union pour la démocratie française;Rassemblement pour la République;Parti radical;Parti républicain;Centre des démocrates sociaux,Union pour la France,1,right,yes,pré-rempli automatiquement
+Union pour la démocratie française;Rassemblement pour la République;Mouvement France régions,non mentionné,1,right,yes,pré-rempli automatiquement
+Union pour la démocratie française;Rassemblement pour la République;Centre national des indépendants;non inscrits,Union pour la France,1,right,yes,pré-rempli automatiquement
+Union pour la démocratie française;Rassemblement pour la République;Centre national des indépendants;Union du centre;divers droite,Union pour la France,1,right,yes,pré-rempli automatiquement
+Union pour la démocratie française;Rassemblement pour la République;Centre national des indépendants et paysans,Union pour la France,1,right,yes,pré-rempli automatiquement
+Union pour la démocratie française;Rassemblement pour la République;Centre des démocrates sociaux;Parti républicain;Parti radical;Parti social démocrate,non mentionné,1,right,yes,pré-rempli automatiquement
+Génération écologie;Ecologie les Verts;PROMESSE;confédération A29;Pourquoi pas Le Havre,Entente des écologistes,1,other,no,pré-rempli automatiquement
+aucun parti politique,Union de l'opposition,1,right,yes,pré-rempli automatiquement
+aucun parti politique,Nouvelle majorité libérale,1,other,no,corrigé automatiquement : ambigu
+aucun parti politique,Lorraine première,1,other,no,corrigé automatiquement : ambigu
+aucun parti politique,France éclairée,1,other,no,corrigé automatiquement : ambigu
+apolitiques,non mentionné,1,other,no,pré-rempli automatiquement
+apolitique,non mentionné,1,other,no,corrigé automatiquement : ambigu
+apolitique,Force verte,1,other,no,corrigé automatiquement : ambigu
+Virage 93;Solidarité écologie gauche alternative;Alternative rouge et verte;Alternative démocratie socialisme,non mentionné,1,other,no,corrigé automatiquement : coalition écologiste mixte
+Verts;Génération écologie;Gauche socialiste;Alternative rouge et verte;Alternative démocratie socialisme;Ligue communiste révolutionnaire;Refondations;Unir et agir pour Gagny,Entente des écologistes,1,other,no,corrigé automatiquement : coalition écologiste mixte
+Verts;Génération écologie;Alternative rouge et verte;Union démocratique bretonne,Entente des écologistes,1,other,no,corrigé automatiquement : coalition écologiste mixte
+Verts;Génération écologie;Alternative rouge et verte;Association des élus écologistes de l'Isère;Ecologie alternatives autogestion,Entente des écologistes,1,other,no,corrigé automatiquement : coalition écologiste mixte
+Verts;Génération écologie,non mentionné,1,other,no,pré-rempli automatiquement
+Verts;Alliance pour l'écologie et la démocratie,Union pour l'écologie et la démocratie,1,other,no,pré-rempli automatiquement
+Verts indépendants,non mentionné,1,other,no,pré-rempli automatiquement
+Verts autonomes,Ecologie politiquement indépendante,1,other,no,pré-rempli automatiquement
+Verts associatifs,non mentionné,1,other,no,pré-rempli automatiquement
+droite modérée,Union pour une future majorité parlementaire,1,right,yes,pré-rempli automatiquement
+droite libérale et républicaine,non mentionné,1,right,yes,pré-rempli automatiquement
+droite libérale démocratique,Union pour la France,1,right,yes,pré-rempli automatiquement
+droite libérale,Convention économie qualité de vie,1,right,yes,pré-rempli automatiquement
+droite indépendante,non mentionné,1,right,yes,pré-rempli automatiquement
+droite démocratique,non mentionné,1,right,yes,pré-rempli automatiquement
+droite autonome,non mentionné,1,right,yes,pré-rempli automatiquement
+divers droite,Opposition,1,right,yes,corrigé automatiquement : opposition de droite
+divers droite,Enjeu France,1,right,yes,pré-rempli automatiquement
+communiste,Rassemblement des forces de progrès,1,left,yes,pré-rempli automatiquement
+centriste;sans étiquette,non mentionné,1,other,no,pré-rempli automatiquement
+centriste,Opposition modérée européenne et sociale,1,right,yes,pré-rempli automatiquement
+centre,non mentionné,1,other,no,pré-rempli automatiquement
+centre,Union nationale républicaine,1,other,no,pré-rempli automatiquement
+aucune formation politique,non mentionné,1,other,no,corrigé automatiquement : ambigu
+aucun parti politique;Rassemblement pour la République;Union des démocrates de progrès;Centre national des indépendants;Amicale gaulliste des Flandres;Femme avenir;Groupe opposition nouvelle génération,non mentionné,1,right,yes,pré-rempli automatiquement
+indépendant,Rassemblement républicain radical pour le renouveau par des réformes réalistes,1,other,no,corrigé automatiquement : ambigu
+indépendant,Rassemblement par le sport,1,other,no,corrigé automatiquement : ambigu
+indépendant,Opposition indépendante,1,right,yes,pré-rempli automatiquement
+indépendant,Nice fraternité,1,other,no,corrigé automatiquement : ambigu
+indépendant,Humanisme et république,1,other,no,corrigé automatiquement : ambigu
+indépendant,Combat pour les valeurs et pour la France,1,other,no,corrigé automatiquement : ambigu
+hors des partis politiques;société civile,non mentionné,1,other,no,pré-rempli automatiquement
+gaulliste;libre,non mentionné,1,right,yes,pré-rempli automatiquement
+gaulliste;indépendant,non mentionné,1,right,yes,pré-rempli automatiquement
+gaulliste,Réforme et renouveau,1,right,yes,pré-rempli automatiquement
+gaulliste,Rassemblement de la droite,1,right,yes,pré-rempli automatiquement
+gaulliste,Opposition nationale,1,right,yes,corrigé automatiquement : opposition de droite
+gaulliste,Opposition,1,right,yes,corrigé automatiquement : opposition de droite
+gauche;formation politique,non mentionné,1,left,yes,pré-rempli automatiquement
+gauche,Union des citoyens,1,left,yes,pré-rempli automatiquement
+droite;sans étiquette,Renouveau pour le Calvados,1,right,yes,pré-rempli automatiquement
+En Calvados l'écologie n'est pas à vendre,Ecologistes ni à droite ni à gauche,1,other,no,corrigé automatiquement : ni droite ni gauche
+Ecologie les Verts;Génération écologie;Autogestion écologie 85,Entente des écologistes,1,other,no,pré-rempli automatiquement
+Ecologie les Verts;Génération écologie;Alternative rouge et verte,Entente des écologistes,1,other,no,corrigé automatiquement : coalition écologiste mixte
+Ecologie les Verts;Génération écologie,non mentionné,1,other,no,pré-rempli automatiquement
+Ecologie citoyenneté et laïcité;Ecologie 92;VRAIS écologistes;Cultures et laïcité;Association pour la culture bretonne;Cercle communautaire laïc juif;France Islam laïcité;AVEC;Montagne sans frontière;Alternative;Alliance pour l'écologie et la démocratie,Union pour l'écologie et la démocratie,1,other,no,pré-rempli automatiquement
+Ecologie 92;Confédération syndicale du cadre de vie;Alternative;Initiatives 92;Ecologie citoyenneté et laïcité;Rencontres écologie et solidarités;Comité de soutien à la coopérative écologique;Dialogues-Cultures et identités;France cultures Islam et laïcité;Mouvement communautaire juif laïc;Ecologie et solidarités multiculturelles;Alliance pour l'écologie et la démocratie,non mentionné,1,other,no,pré-rempli automatiquement
+Ecologie 92;Confédération syndicale du cadre de vie;Alternative;Initiatives 92;Ecologie citoyenneté et laïcité;Comité de soutien à la coopérative écologique;Dialogues-Cultures et identités;France cultures Islam et laïcité;Mouvement communautaire juif laïc;Ecologie et solidarités multiculturelles;Alliance pour l'écologie et la démocratie,non mentionné,1,other,no,pré-rempli automatiquement
+Démocratie chrétienne française;Centre national des indépendants et paysans,non mentionné,1,right,yes,pré-rempli automatiquement
+Démocratie chrétienne française,non mentionné,1,right,yes,corrigé automatiquement : démocratie chrétienne classée à droite
+Démocrates de progrès,Union pour la France,1,right,yes,pré-rempli automatiquement
+Démocrate de progrès;Agir;Parti socialiste;Mouvement des radicaux de gauche;Mouvement des réformateurs;Mouvement des démocrates;Club gardois des libéraux-sociaux;Solidarité environnement,non mentionné,1,left,yes,pré-rempli automatiquement
+Coordination rurale;Chasse pêche nature traditions;UTILE;Union des indépendants,non mentionné,1,other,no,pré-rempli automatiquement
+indépendant,Yvelines écologie,1,other,no,corrigé automatiquement : ambigu
+indépendant,Un vrai libéralisme,1,other,no,corrigé automatiquement : ambigu
+indépendant,Sos patrimoine économique du Finistère,1,other,no,corrigé automatiquement : ambigu
+indépendant,Retz-Atlantique initiatives pour un pays,1,other,no,corrigé automatiquement : ambigu
+libre;Parti des travailleurs,Unité et démocratie,1,left,yes,pré-rempli automatiquement
+libre,Une politique de l'emploi,1,other,no,à revoir si besoin
+indépendants;Centre chrétien populaire,non mentionné,1,other,no,pré-rempli automatiquement
+indépendants,Union pour la Franche-Comté,1,other,no,pré-rempli automatiquement
+indépendants,Sos patrimoine économique,1,other,no,pré-rempli automatiquement
+indépendants,Opposition,1,right,yes,pré-rempli automatiquement
+indépendants,93 au coeur,1,other,no,pré-rempli automatiquement
+indépendant;écologiste,non mentionné,1,other,no,pré-rempli automatiquement
+indépendant;sans étiquette,non mentionné,1,other,no,pré-rempli automatiquement
+indépendant;hors des partis politiques,non mentionné,1,other,no,pré-rempli automatiquement
+indépendant;hors des partis politiques,Agir pour une France libérale sociale et écologique,1,other,no,pré-rempli automatiquement
+indépendant;gauche,non mentionné,1,left,yes,pré-rempli automatiquement
+indépendant;centre droit,non mentionné,1,right,yes,corrigé automatiquement : centre droit agrégé à droite
+indépendant;centre,non mentionné,1,other,no,pré-rempli automatiquement
+indépendant;Chasse pêche nature traditions;Collectif aquitano-occitan pour le non à Maastricht,Action rurale,1,other,no,pré-rempli automatiquement
+indépendant;Centre national des indépendants;Démocratie chrétienne française,non mentionné,1,right,yes,pré-rempli automatiquement
+non mentionné,Alliance démocrate pour les Yvelines,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Alliance des forces de progrès pour la Corse,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Alliance des Français pour le progrès;Génération action,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Agir avec vous pour le Nord Cotentin,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Action régionale de défense des contribuables et des entreprises,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Action Mandelieu,1,other,no,corrigé automatiquement : ambigu
+non mentionné,A gauche naturellement,1,left,yes,corrigé automatiquement : liste explicitement à gauche
+non inscrits,non mentionné,1,other,no,corrigé automatiquement : ambigu
+non inscrit,Union républicaine,1,other,no,corrigé automatiquement : ambigu
+non inscrit,Alliance des forces de progrès,1,other,no,corrigé automatiquement : ambigu
+libres,non mentionné,1,other,no,pré-rempli automatiquement
+libre;sans étiquette,non mentionné,1,other,no,pré-rempli automatiquement
+libre;indépendant,non mentionné,1,other,no,pré-rempli automatiquement
+libre;indépendant,Oxygène,1,other,no,pré-rempli automatiquement
+libre;divers droite,non mentionné,1,right,yes,pré-rempli automatiquement
+libre;centre,non mentionné,1,other,no,pré-rempli automatiquement
+non mentionné,Ecologie et citoyenneté,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Ecologie démocratie progrès,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Ecologie d'abord,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Ecologie active,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Ecologie République,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Ecologie 90,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Démocratie européenne,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Démocratie et progrès,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Dimension écologie,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Debout les Vosges,1,other,no,corrigé automatiquement : ambigu
+non mentionné,DOM TOM,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Courage et partage,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Convaincre ensemble,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Citoyens responsables région Provence,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Candidature bizarre,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Bien vivre dans nos communes,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Ecologie solidarité démocratie,1,other,no,corrigé automatiquement : ambigu
+Convergence,Convergence pour une vraie gauche,1,left,yes,pré-rempli automatiquement
+Comité pour l'union du Loir-et-Cher;hors des partis politiques,non mentionné,1,other,no,pré-rempli automatiquement
+Comité défense droits constitutionnels,Front social démocratique et républicain,1,other,no,à revoir si besoin
+Collectif Vraiment à gauche,non mentionné,1,left,yes,pré-rempli automatiquement
+Citoyens actifs,non mentionné,1,other,no,pré-rempli automatiquement
+Chasse pêche nature traditions;Collectif du monde rural pour le non à Maastricht,Enjeu France,1,other,no,pré-rempli automatiquement
+Centre national des indépendants;Rassemblement pour la République,non mentionné,1,right,yes,pré-rempli automatiquement
+Centre national des indépendants et paysans;Démocratie chrétienne française,Union de l'opposition,1,right,yes,pré-rempli automatiquement
+Centre des démocrates sociaux;Union pour la démocratie française;Rassemblement pour la République,Union pour la France,1,right,yes,pré-rempli automatiquement
+Centre des démocrates sociaux;Union pour la démocratie française,non mentionné,1,right,yes,pré-rempli automatiquement
+non mentionné,Ecologie nouvelle,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Ecologie libre,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Ecologie indépendante,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Ecologie humaniste réaliste libérale,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Ecologie et nature,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Moralpolitic,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Marseillais il faut se réveiller,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Justice paix sociale équité et retour aux valeurs qui ont fait de notre pays un grand pays,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Isère environnement solidarités,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Identité française,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Gestion verte,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Gard fraternité,1,other,no,corrigé automatiquement : ambigu
+non mentionné,France unie,1,other,no,corrigé automatiquement : ambigu
+non mentionné,France fiscalité faillite,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Espérance républicaine,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Entente Ecologiste,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Ensemble pour un nouvel élan,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Energie radicale;Alliance des Français pour le progrès,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Energie Est,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Emploi solidarité écologie,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Ecologie;A gauche vraiment,1,left,yes,corrigé automatiquement : liste explicitement à gauche
+non mentionné,Temps vert,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Socialisme et liberté,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Réagir librement,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Renouveau économique social et politique pour la France,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Refondation pour changer à gauche,1,left,yes,corrigé automatiquement : liste explicitement à gauche
+non mentionné,Rassemblement pour se défendre et changer,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Rassemblement des sociaux démocrates,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Rassemblement des forces de progrès,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Rassemblement des citoyens pour le progrès,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Rassemblement des Français de progrès,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Progrès et solidarité,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Priorité à l'écologie,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Oxygéner la gauche,1,left,yes,corrigé automatiquement : liste explicitement à gauche
+non mentionné,Opposition républicaine,1,right,yes,pré-rempli automatiquement
+non mentionné,Ni de gauche ni de droite,1,other,no,corrigé automatiquement : ni gauche ni droite
+non mentionné,Mouvement pour la sixième République,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Vote blanc suffrage exprimé,1,other,no,corrigé automatiquement : ambigu
+socialistes;divers gauche;Radicaux de gauche,non mentionné,1,left,yes,pré-rempli automatiquement
+Agir,non mentionné,1,other,no,pré-rempli automatiquement
+non mentionné,Valeurs socialistes,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Utopia,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Union écologistes Hauts-de-Seine,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Union écologiste,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Union républicaine pour l'Eure-et-Loir,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Union pour le Bergeracois,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Union pour la démocratie libérale,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Union pour la Creuse,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Union pour Lyon,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Union nationale les bleus,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Union et renouveau pour la circonscription de Thiers Ambert,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Union des écologistes indépendants,1,other,no,corrigé automatiquement : ambigu
+non mentionné,Union des républicains de progrès,1,other,no,corrigé automatiquement : ambigu
+Parti communiste français;Alternative rouge et verte;Refondations;Convergences et démocratie;Espoirs 93;Alternative démocratie socialisme,non mentionné,1,left,yes,pré-rempli automatiquement
+Parti communiste français,Rassemblement pour une autre politique,1,left,yes,pré-rempli automatiquement
+Parti communiste français,Rassemblement pour se défendre et changer,1,left,yes,pré-rempli automatiquement
+Parti communiste français,Rassemblement des progressistes et des forces de gauche,1,left,yes,pré-rempli automatiquement
+Parti communiste français,Rassemblement des forces progressistes et changement,1,left,yes,pré-rempli automatiquement
+Parti communiste français,Rassemblement des forces de progrès pour se défendre et pour changer,1,left,yes,pré-rempli automatiquement
+socialistes,Progrès et solidarité,1,left,yes,pré-rempli automatiquement
+sans étiquette;hors des partis politiques,non mentionné,1,other,no,pré-rempli automatiquement
+sans étiquette;apolitique,non mentionné,1,other,no,pré-rempli automatiquement
+sans étiquette,Opposition nationale,1,right,yes,pré-rempli automatiquement
+sans étiquette,Elémentairement vôtre,1,other,no,corrigé automatiquement : ambigu
+sans étiquette,Au coeur,1,other,no,corrigé automatiquement : ambigu
+sans parti politique,non mentionné,1,other,no,pré-rempli automatiquement
+sans parti politique,Une écologie indépendante à l'Assemblée,1,other,no,pré-rempli automatiquement
+sans appartenance politique,non mentionné,1,other,no,pré-rempli automatiquement
+progressistes,non mentionné,1,other,no,pré-rempli automatiquement
