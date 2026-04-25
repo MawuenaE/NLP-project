@@ -1,5 +1,6 @@
 # Environnement
 .venv/
+.venv-gpu
 venv/
 
 # Python
