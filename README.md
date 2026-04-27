@@ -29,8 +29,7 @@ NLP-project/
 ├── notebooks/
 │   ├── 01_baseline_tfidf.ipynb
 │   ├── 02_deep_learning_pytorch_lstm_gru.ipynb
-│   ├── 03_ner_analysis_spacy_premium.ipynb
-│   └── 04_ner_postprocessing_premium.ipynb
+│   ├── 03_ner_analysis_spacy.ipynb
 │
 ├── outputs/
 │   ├── deep_learning_pytorch/
@@ -204,7 +203,7 @@ Observed results:
 
 ---
 
-#### `03_ner_analysis_spacy_premium.ipynb`
+#### `03_ner_analysis_spacy.ipynb`
 
 Named Entity Recognition analysis notebook using **spaCy**.
 
@@ -225,36 +224,6 @@ Main purpose:
 
 > This notebook enriches the classification task with a linguistic analysis of named entities, showing which persons, places, organizations, and institutions structure the political discourse.
 
-
-
-#### `04_ner_postprocessing_premium.ipynb`
-
-Post-processing notebook for NER outputs.
-
-It includes:
-
-- loading raw extracted entities;
-- inspecting noisy entities;
-- cleaning false positives;
-- normalizing variants;
-- grouping OCR variants;
-- rebuilding clean entity frequency tables;
-- comparing clean entities by political class;
-- computing entity specificity for `left` and `right`.
-
-Examples of normalization:
-
-```text
-fn, f.n, front national → front national
-ps → parti socialiste
-pcf → parti communiste français
-maastrich → maastricht
-la france → france
-```
-
-Main purpose:
-
-> This notebook transforms raw NER output into a cleaner and more interpretable analytical resource.
 
 
 
