@@ -31,16 +31,13 @@ NLP-project/
 │   ├── 02_deep_learning_pytorch_lstm_gru.ipynb
 │   ├── 03_ner_analysis_spacy.ipynb
 │
-├── outputs/
-│   ├── deep_learning_pytorch/
-│   ├── ner_analysis/
-│   └── ner_postprocessed/
+├
 │
 ├── report/
 │
 ├── scripts/
 │
-├── src/
+├
 │
 ├── requirements.txt
 ├── README.md
@@ -72,8 +69,6 @@ data/raw/
 - `zips/`: stores downloaded ZIP archives from the external source.
 - `pf_1993_tour1_all/`: contains all extracted OCR files for the 1993 legislative elections.
 - `pf_1993_tour1_matched/`: contains only OCR files that match the selected metadata subset.
-
-Raw data files are usually large and should generally **not** be versioned with Git.
 
 
 #### `data/interim/`
@@ -116,18 +111,6 @@ data/processed/
 - `dataset_1993_final_clean.csv`: final cleaned dataset used in the baseline, deep learning, and NER notebooks.
 
 This is the main dataset used for the experiments.
-
-Expected columns:
-
-```text
-id,text,label
-```
-
-where:
-
-- `id`: document identifier;
-- `text`: OCR text of the profession of faith;
-- `label`: political orientation (`left` or `right`).
 
 ---
 
@@ -342,145 +325,16 @@ data/processed/dataset_1993_final_clean.csv
 ```
 
 
-
-### `outputs/`
-
-This folder stores model outputs, figures, and intermediate analytical results.
-
-#### `outputs/deep_learning_pytorch/`
-
-Contains outputs from the PyTorch deep learning notebook.
-
-Typical files:
-
-```text
-outputs/deep_learning_pytorch/
-├── lstm_debiased.pt
-├── gru_debiased.pt
-└── comparison.csv
-```
-
-- `lstm_debiased.pt`: saved LSTM model weights.
-- `gru_debiased.pt`: saved GRU model weights.
-- `comparison.csv`: comparison table between SVM, LSTM, and GRU.
-
-#### `outputs/ner_analysis/`
-
-Contains raw NER outputs.
-
-Typical files:
-
-```text
-outputs/ner_analysis/
-├── documents_with_entities.csv
-└── entities_flat.csv
-```
-
-- `documents_with_entities.csv`: document-level NER output.
-- `entities_flat.csv`: one row per extracted entity.
-
-#### `outputs/ner_postprocessed/`
-
-Contains cleaned and normalized NER outputs.
-
-Typical files:
-
-```text
-outputs/ner_postprocessed/
-├── entities_clean.csv
-└── entity_specificity.csv
-```
-
-- `entities_clean.csv`: cleaned entity table.
-- `entity_specificity.csv`: entity specificity scores for `left` and `right`.
-
-
-
 ### `report/`
 
-Contains reports, figures, and LaTeX/PDF deliverables.
+Contains my final report called Elisee_Amewouame_NLP.
 
-Typical content:
-
-```text
-report/
-├── labellisation_methodology_report.pdf
-├── labellisation_methodology_report.tex
-├── archelec_nlp_full_report.pdf
-└── archelec_nlp_full_report.tex
-```
-
-These reports document:
+That report documents:
 
 - the labelling methodology;
 - the NLP classification pipeline;
 - the deep learning experiments;
 - the NER analysis.
-
-
-
-### `src/`
-
-Reserved for reusable Python modules.
-
-This folder can contain helper functions for:
-
-- text preprocessing;
-- vectorization;
-- evaluation;
-- plotting;
-- NER post-processing.
-
-If the project grows, code repeated across notebooks should be moved here.
-
-
-
-## Labelling Methodology
-
-The original OCR corpus did not contain a direct `left` / `right` variable.
-
-The political labels were constructed from ARCHELEC metadata, mainly:
-
-```text
-titulaire-soutien
-titulaire-liste
-```
-
-These columns describe the political support or list associated with each candidate.
-
-The labelling process followed these steps:
-
-1. filter the corpus to the 1993 legislative election, first round;
-2. merge OCR texts with metadata using the document identifier;
-3. extract all distinct combinations of `titulaire-soutien` and `titulaire-liste`;
-4. create a mapping table assigning each combination to:
-   - `left`;
-   - `right`;
-   - `other`;
-5. exclude ambiguous or non-informative cases from the binary classification task.
-
-Examples:
-
-```text
-Front national → right
-Rassemblement pour la République → right
-Union pour la démocratie française → right
-Parti socialiste → left
-Parti communiste français → left
-Lutte ouvrière → left
-Ligue communiste révolutionnaire → left
-```
-
-Cases labelled as `other` include:
-
-- non-mentioned affiliations;
-- independent candidates;
-- ambiguous ecological lists;
-- regionalist or local movements;
-- unclear or non-binary affiliations.
-
-The purpose was not to force every document into a binary label, but to build a cleaner and more reliable `left` / `right` subset.
-
 
 
 ## Main Results
@@ -556,27 +410,6 @@ NER results were useful but noisy due to:
 
 Post-processing was therefore added to clean and normalize extracted entities.
 
-
-
-## Reproducibility
-
-### 1. Create environment
-
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
-
-On Windows:
-
-```bash
-python -m venv .venv
-.venv\Scripts\activate
-pip install -r requirements.txt
-```
-
----
 
 ### 2. Prepare the corpus
 
@@ -661,54 +494,7 @@ These limitations are expected and are discussed in the analysis.
 The NER model is not manually fine-tuned on this corpus.  
 Therefore, entity extraction should be interpreted as exploratory rather than perfect annotation.
 
----
-
-## Suggested `.gitignore`
-
-```gitignore
-# Python
-__pycache__/
-*.py[cod]
-*.pyo
-
-# Virtual environments
-.venv/
-.venv-gpu/
-env/
-venv/
-
-# Jupyter
-.ipynb_checkpoints/
-
 # Raw and intermediate data
-data/raw/
-data/interim/
-
-# Large outputs
-outputs/
-*.pt
-*.pth
-*.ckpt
-
-# System files
-.DS_Store
-Thumbs.db
-```
 
 
-## Project Summary
-
-This project demonstrates a complete NLP workflow on political OCR data:
-
-1. raw OCR preparation;
-2. metadata-based labelling;
-3. classical text classification;
-4. robustness analysis through debiasing;
-5. deep learning comparison;
-6. named entity recognition;
-7. NER post-processing and interpretation.
-
-The main finding is that classical sparse lexical models, especially Linear SVM and Logistic Regression, are extremely effective on this corpus, while LSTM and GRU models trained from scratch do not outperform them. NER adds an additional interpretive layer by showing how political camps differ not only in vocabulary, but also in the actors, institutions, and places they mention.
-
-
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

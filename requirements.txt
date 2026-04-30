@@ -6,3 +6,4 @@ matplotlib
 jupyter
 notebook
 tqdm
+torch
